@@ -30,9 +30,9 @@ const Intro = () => {
                 Learning</small>
             </article>
           </div>
-          <p >Hello, I am B.Tech Computer Scince graduating student. I'm skilled in C++ and JavaScript programming language and have experience in
+          <p >Hello, I am B.Tech Computer Science graduating student. I'm skilled in C++ and JavaScript programming language and have experience in
              building Web applications and Machine Learning.
-            <br/>Along with that I enjoy reading, making craft works ,listening to music, and traveling.
+            <br/>Along with that I enjoy reading, making craft works ,listening to music, and travelling.
           I'm always on the lookout for new knowledge and experiences to improve my skills and expand my perspective.
           </p>
           <a href="#contact" className="btn btn-primary">Let's connect</a>
