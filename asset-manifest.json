@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio_SJ/static/css/main.a01a6252.css",
+    "main.js": "/Portfolio_SJ/static/js/main.2e2cb09c.js",
+    "static/media/weather.png": "/Portfolio_SJ/static/media/weather.ca37cec0bae00fa8e3c4.png",
+    "static/media/coureir.png": "/Portfolio_SJ/static/media/coureir.82269123d0a7ad0ab556.png",
+    "static/media/quiz.png": "/Portfolio_SJ/static/media/quiz.faf93736886a1a657303.png",
+    "static/media/fnews.png": "/Portfolio_SJ/static/media/fnews.bf92c87d8288ac43298d.png",
+    "static/media/elearn.png": "/Portfolio_SJ/static/media/elearn.73dfae1fd2cd9d350ed4.png",
+    "static/media/sk_res.pdf": "/Portfolio_SJ/static/media/sk_res.454c2f54bdbf1466e725.pdf",
+    "static/media/me.png": "/Portfolio_SJ/static/media/me.5c04b0f5c7df8f316545.png",
+    "static/media/chat.png": "/Portfolio_SJ/static/media/chat.ca1b9ebf4b43da962994.png",
+    "static/media/music.png": "/Portfolio_SJ/static/media/music.64ffa743bf542eaa9cde.png",
+    "index.html": "/Portfolio_SJ/index.html",
+    "static/media/favicon (4).ico": "/Portfolio_SJ/static/media/favicon (4).1f3b7dd5d1befe7cb75e.ico",
+    "main.a01a6252.css.map": "/Portfolio_SJ/static/css/main.a01a6252.css.map",
+    "main.2e2cb09c.js.map": "/Portfolio_SJ/static/js/main.2e2cb09c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01a6252.css",
+    "static/js/main.2e2cb09c.js"
+  ]
+}
