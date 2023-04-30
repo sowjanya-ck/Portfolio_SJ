@@ -20,7 +20,7 @@ const Portfolio = () => {
       title: 'Quiz Application',
       img: IMG2,
       description:
-        " It's a multiple choice quiz application built using MERN technologies.The application contains quiz test on different topics and the user can choose any topic they prefer.Once the quiz completes the score is displayed along with the right answers. ",
+        "It's a multiple choice quiz application built using MERN technologies.The application contains quiz test on different topics and the user can choose any of the topic they prefer. Quiz has the time limit and once the quiz completes the result is displayed along with the right answers.",
       technologies:<div className="tec-icons"style={{marginTop: 0}}><FaReact/><SiMongodb/><DiNodejs/><SiExpress/></div>,
       github: 'https://github.com/sowjanya-ck/Quiz-using-MERN.git',
     },
@@ -30,7 +30,7 @@ const Portfolio = () => {
       title: 'Weather Forecast',
       img: IMG4,
       description:
-        'It is a fully responsive interactive website built to check the weather of the different location. The user enthers the location as a input  and application fetches the weather details from the weather API. The weather details contains tempearture,humidity, and windspeed.',
+        'It is a fully responsive and interactive website built to check the weather of the different location. The user enters the location as an input  and application fetches the weather details from the weather API. The weather details contains temperature, humidity and windspeed.',
       technologies: <div class="tec-icons" style={{marginTop: 0}}><AiOutlineHtml5/><TbBrandCss3/><TbBrandJavascript/></div>,
       github: 'https://github.com/sowjanya-ck/weather-forecast',
     },
@@ -39,7 +39,7 @@ const Portfolio = () => {
       title: 'ChatterBot',
       img: IMG5,
       description:
-        'Programming application when you provide inputs in english text, responds with some meaningfull sentence.It consists of a knowledge base which is composed of keywords and some responses associated to each keywords which is used by chatterbot to respond.',
+        'Its a Programming application which when you provide input text in English, responds with some meaningful sentence. It consists of a knowledge base which is composed of keywords and some responses associated to each keywords which is used by chatterbot to respond.',
       technologies: <div className='tec-icons' style={{marginTop: 0}}><TbBrandCpp/></div>,
       github: 'https://github.com/sowjanya-ck/Chatbot',
     },
@@ -47,7 +47,7 @@ const Portfolio = () => {
       id: 6,
       title: 'Music player',
       img: IMG6,
-      description:'It is a music app where user can logged into their account once the account is created. The app allows a user to  add a song to the library,select a song, play it and add it to their playlist,delete the song from the playlist as well.Built using swing java framework.',
+      description:'It is a music application where user can logged in to their account once the account is created. The app allows a user to  add songs to the library, select a song and play it. User can create a  playlist and can add and delete songs from the playlist.Built using swing java framework.',
       technologies: <div className='tec-icons' style={{marginTop: 0}}> <SiMysql /><FaJava/><SiApachenetbeanside/></div> ,
       github: 'https://github.com/spoorthivraju/MusicPlayer-H5',
     },

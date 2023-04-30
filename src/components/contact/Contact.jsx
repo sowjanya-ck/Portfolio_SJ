@@ -9,6 +9,7 @@ const Contact = () => {
   const formRef = useRef();
   const handleSubmit = (e) => {
     e.preventDefault();
+    // validationform(formvalue);
     setMessage(true);
     emailjs
       .sendForm(
@@ -27,7 +28,16 @@ const Contact = () => {
       );
 
     e.target.reset();
-  };
+  }
+  // const validationform=(value)=>{
+  //   const errors={};
+  //   const emailPattern = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/;
+  //   if(!emailPattern.test(value.email)){
+  //     errors.email="Enter Valid Email";
+  //   }
+  //   return errors;
+  // }
+  ;
   return (
     <section id="contact">
       <h5>Get In Touch</h5>
@@ -61,6 +71,7 @@ const Contact = () => {
             type="text"
             placeholder="Your Email"
             name="user_email"
+            // value="formvalue"
             required
           />
           <textarea
