@@ -5,10 +5,12 @@ import {SiApachenetbeanside,SiMongodb, SiExpress} from 'react-icons/si';
 import {DiNodejs} from 'react-icons/di';
 import {AiOutlineHtml5} from 'react-icons/ai';
 import {TbBrandJavascript,TbBrandCss3,TbBrandCpp} from 'react-icons/tb';
+import {DiBootstrap} from 'react-icons/di';
 import IMG2 from '../../assets/quiz.png';
 import IMG4 from '../../assets/weather.png';
 import IMG5 from '../../assets/chat.png';
 import IMG6 from '../../assets/music.png';
+import IMG7 from '../../assets/website.png';
 
 import './portfolio.css';
 
@@ -51,6 +53,15 @@ const Portfolio = () => {
       technologies: <div className='tec-icons' style={{marginTop: 0}}> <SiMysql /><FaJava/><SiApachenetbeanside/></div> ,
       github: 'https://github.com/spoorthivraju/MusicPlayer-H5',
     },
+    {
+      id: 7,
+      title: 'Single page website',
+      img: IMG7,
+      description:'It is a responsive and stylish platform built using HTML, CSS, and JS. It includes sections for "Home," "About," and "Contact Us." The "Home" section features engaging visuals, while the "About" page provides an overview of the organization, "Contact Us" section allows visitors to easily get in touch',
+      technologies: <div className='tec-icons' style={{marginTop: 0}}> <AiOutlineHtml5/><TbBrandCss3/><DiBootstrap/><TbBrandJavascript/></div> ,
+      github: 'https://github.com/sowjanya-ck/Singlepage-Website',
+      
+    }
   ];
 
   return (
@@ -80,6 +91,7 @@ const Portfolio = () => {
           </article>
         ))}
       </div>
+     
     </section>
   );
 };

@@ -4,6 +4,7 @@
     gap: 2.5rem;
 }
 .portfolio__item>.tec-icons{  margin-top: 0px;}
+.portfolio__item>.tec-iconss{  margin-top: 0px;}
 
 .portfolio__item {
     background: var(--color-bg-variant);
